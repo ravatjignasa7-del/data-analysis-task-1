@@ -1,6 +1,6 @@
 # Supermarket Sales Data Analysis
 
-This project analyzes supermarket sales data using Excel.
+This project analyzes supermarket sales data using Excel .
 
 Key Insights:
 - Giza branch generated the highest sales.
@@ -11,3 +11,4 @@ Tools Used:
 - Data Cleaning
 - Pivot Tables
 - Charts
+- powerBi
